@@ -4,8 +4,9 @@ MERJENJE HITROSTI IN SMERI VETRA:Smer vetra določamo v glavnem s pomočjo vetro
 | KOMPONENTE | ŠT.KOSOV |
 | --- | --- |
 | UPOR | 1 (1k) |
-| ZIČKE |
-| ARDUINO UNO |
-| LCD EKRAN 16x2 |
-| POTENCIOMTER (10k) |
-| VENTILATOR |
+| ZIČKE | 30 |
+| ARDUINO UNO | 1 |
+| LCD EKRAN 16x2 | 1 |
+| POTENCIOMTER (10k) | 1 |
+| VENTILATOR | 1 |
+

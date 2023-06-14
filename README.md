@@ -3,7 +3,7 @@ MERJENJE HITROSTI IN SMERI VETRA:Smer vetra določamo v glavnem s pomočjo vetro
 # SEZNAM UPORABLJENIH MATERIALOV IN KOMPONENT
 | KOMPONENTE | ŠT.KOSOV |
 | --- | --- |
-| UPOR | 1 (1k) |
+| UPOR | 2 (1k) |
 | ZIČKE | 30 |
 | ARDUINO UNO | 1 |
 | LCD EKRAN 16x2 | 1 |

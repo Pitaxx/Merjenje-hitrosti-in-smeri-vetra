@@ -14,3 +14,4 @@ MERJENJE HITROSTI IN SMERI VETRA:Smer vetra določamo v glavnem s pomočjo vetro
 # KOMENTAR
 Vezje deluje tako kot v opisu delovanja, ampak je v kodi uporabljena povprečna hitros na 2 sekundi zato vrednosti malce skačejo vrednosti na LCD zaslonu.
 
+![Končen izdelek](https://github.com/Pitaxx/Merjenje-hitrosti-in-smeri-vetra/blob/main/IMG-2227.jpg)

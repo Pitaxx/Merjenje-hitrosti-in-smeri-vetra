@@ -10,4 +10,5 @@ MERJENJE HITROSTI IN SMERI VETRA:Smer vetra določamo v glavnem s pomočjo vetro
 | POTENCIOMTER (10k) | 1 |
 | VENTILATOR | 1 |
 # VEZALNA SHEMA
-![priredbeni seznam](
+![priredbeni seznam](https://github.com/Pitaxx/Merjenje-hitrosti-in-smeri-vetra/blob/main/image%20(2).png)
+

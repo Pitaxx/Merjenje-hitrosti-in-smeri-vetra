@@ -1,5 +1,5 @@
 # Merjenje-hitrosti-in-smeri-vetra
-MERJENJE HITROSTI IN SMERI VETRA:Smer vetra določamo v glavnem s pomočjo vetrovnih smerokazov, električnih daljinskih anemometrov in anemografov (toda mi smo uporabili ventilator). Če nimamo smerokaza, kot tudi v primeru šibkega vetra, ko se smerokaz (ali kak drug instrument) ne obrača, lahko določujemo smer vetra tudi po smeri gibanja dima, pri tem pa moramo obvezno označiti način določevanja (na primer: “NW po dimu”).
+MERJENJE HITROSTI IN SMERI VETRA:Smer vetra določamo v glavnem s pomočjo vetrovnih smerokazov, električnih daljinskih anemometrov in anemografov (toda mi smo uporabili ventilator). Spomočjo kode najprej izmirimo napetost ki jo proizvaja ventilator, nato vrednost pretvorimo v km na uro in na koncu še v metre na sekundo.  Če nimamo smerokaza, kot tudi v primeru šibkega vetra, ko se smerokaz (ali kak drug instrument) ne obrača, lahko določujemo smer vetra tudi po smeri gibanja dima, pri tem pa moramo obvezno označiti način določevanja (na primer: “NW po dimu”).
 # SEZNAM UPORABLJENIH MATERIALOV IN KOMPONENT
 | KOMPONENTE | ŠT.KOSOV |
 | --- | --- |
@@ -11,6 +11,6 @@ MERJENJE HITROSTI IN SMERI VETRA:Smer vetra določamo v glavnem s pomočjo vetro
 | VENTILATOR | 1 |
 # VEZALNA SHEMA
 ![priredbeni seznam](https://github.com/Pitaxx/Merjenje-hitrosti-in-smeri-vetra/blob/main/image%20(2).png)
-# VIDEO DELOVANJA
-![priredbeni seznam](https://github.com/Pitaxx/Merjenje-hitrosti-in-smeri-vetra/blob/main/IMG_2226.MOV****)
+# KOMENTAR
+Vezje deluje tako kot v opisu delovanja, ampak je v kodi uporabljena povprečna hitros na 2 sekundi zato vrednosti malce skačejo vrednosti na LCD zaslonu.
 
